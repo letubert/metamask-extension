@@ -13,7 +13,7 @@ If you're a user seeking support, [here is our support site](https://metamask.he
 
 ## Developing Compatible Dapps
 
-If you're a web dapp developer, we've got two types of guides for you:
+If you're a web Dapp developer, we've got two types of guides for you:
 
 ### New Dapp Developers
 
